@@ -33,40 +33,5 @@
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
       "name": "Broke Ape 4"
-    },
-    {
-      "id": 5,
-      "description": "One of many Broke Apes",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://img.seadn.io/files/5ee634a3f688e710c2a0f22fba044f34.png?auto=format&h=720&w=600",
-      "name": "Broke Ape 5"
-    },
-    {
-      "id": 6,
-      "description": "One of many Broke Apes",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://img.seadn.io/files/33859376ab6c52a17ad7fdafaf44e0b6.png?auto=format&h=720&w=600",
-      "name": "Broke Ape 6"
-    },
-    {
-      "id": 7,
-      "description": "One of many Broke Apes",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://img.seadn.io/files/403375278f7886db351ed7c7cc9ac7d2.png?auto=format&h=720&w=600",
-      "name": "Broke Ape 7"
-    },
-    {
-      "id": 8,
-      "description": "One of many Broke Apes",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://img.seadn.io/files/dce92b5f2fcba1564f5fb4ef642a838a.png?auto=format&h=720&w=600",
-      "name": "Broke Ape 8"
-    },
-    {
-      "id": 9,
-      "description": "One of many Broke Apes",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://img.seadn.io/files/c40e2194a9188f93f68c2994f66b6fd8.png?auto=format&h=720&w=600",
-      "name": "Broke Ape 9"
     }
 ]
