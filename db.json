@@ -1,5 +1,5 @@
 {
-  "tokenks": [
+  "tokens": [
       {
         "id": 0,
         "description": "One of many Broke Apes",
@@ -32,7 +32,7 @@
         "id": 4,
         "description": "One of many Broke Apes",
         "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-        "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+        "image": "https://img.seadn.io/files/4b342e527a0031d78372ffbc552e4d11.png?auto=format&h=720&w=600",
         "name": "Broke Ape 4"
       }
   ]
